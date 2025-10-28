@@ -112,9 +112,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contributors
 
-Thanks to these wonderful people ✨
 
-<a href="https://github.com/wasimreja/book-finder/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=wasimreja/book-finder" />
-</a>
 # Book_finder
